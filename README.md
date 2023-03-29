@@ -10,6 +10,6 @@ Cojocaru Antonia (Developer)
 
 Dănăilă Mioara (Developer)
 
-Mititelu Monica (Developer)
+Mititelu Monica (Tester)
 
-Adam Delia (Developer)
+Adam Delia (Tester)
