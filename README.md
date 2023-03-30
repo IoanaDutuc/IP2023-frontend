@@ -2,14 +2,14 @@
 
 Duțuc Ioana (Scrum Master)
 
-Vasiluță Diana (Developer și Designer)
-
-Murgoci Andreea (Developer)
+Adam Delia (Developer)
 
 Cojocaru Antonia (Developer)
 
 Dănăilă Mioara (Developer)
 
-Mititelu Monica (Tester)
+Murgoci Andreea (Developer)
 
-Adam Delia (Tester)
+Vasiluță Diana (Developer)
+
+Mititelu Monica (Tester)
