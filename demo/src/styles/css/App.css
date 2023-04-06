@@ -1,0 +1,63 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+/* for fun incercati sa ii dati 0.00001s */
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 0.1s linear;
+  }
+}
+.App-flower {
+  height: 10vmin;
+  position: absolute;
+  pointer-events: none;
+}
+
+#flower1 {
+  top: 11em;
+  left: 22em;
+}
+
+#flower2 {
+  top: 11em;
+  left: 68em;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-flower {
+    animation: App-flower-spin infinite 1s linear;
+  }
+}
+.App-header {
+  background-color: #ffffff;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: rgb(0, 0, 0);
+}
+
+.App h2 {
+  color: purple;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-flower-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}/*# sourceMappingURL=App.css.map */

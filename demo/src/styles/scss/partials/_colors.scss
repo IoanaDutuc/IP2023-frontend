@@ -1,0 +1,13 @@
+//used for setting variables that will be used in all the pages
+//if the scss file has "_" like this one, there will be no css generated
+//this type of files "_filename.scss" will be used for setting variables such as colors, font size, font style, shaddow etc.
+//we will mainly work with "_colors.scss", "_fonts.scss" and "_mixins.scss", if will need anyting more specific we will add it
+$background-color: #ffffff;
+$primary-dark-color: rgb(72, 0, 72);
+//colors will be named like this: $primary:
+// $primaryLight: 
+// $primaryDark:
+
+// $secondary:
+// $secondaryLight:
+// $secondaryDark:
